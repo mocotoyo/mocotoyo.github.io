@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name: "Monica Cecilia Torrico Yepez"
-  avatar: "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/profile.jpg"
+  avatar: "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/profile.jpeg"
   location: "Santa Cruz, Bolivia"
   bio: |
     Network Engineer | SysAdmin | Devops | Scrum Master in Progress
