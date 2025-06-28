@@ -114,18 +114,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Monica Cecilia Torrico Yepez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software developer and technology enthusiast. Passionate about learning and sharing knowledge. This is the personal portfolio of Monica Cecilia Torrico Yepez."
-  location         : ""
-  email            :
+  name: "Monica Cecilia Torrico Yepez"
+  avatar: "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/profile.jpeg"
+  location: "Santa Cruz, Bolivia"
+
+  bio: |
+    Network Engineer | SysAdmin | Devops
+
+    **Summary**
+    Network and Telecommunications Engineer with over 16 years of expertise in managing, deploying, configuring, and maintaining Technology Platform Applications Services. Proven track record across diverse sectors, including Government, Oil and Gas, Telecommunication, Financial, Industry, and Education. Strong analytical skills to identify, analyze, and solve problems related to services, leveraging diagnostic tools for resolving performance issues, configuration errors, communication failures, and other technical challenges.
+
+  location: "Santa Cruz, Bolivia"
+  email: "monica.torrico@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.email@example.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "mailto:monica.torrico@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mocotoyo"
