@@ -123,75 +123,12 @@ author:
     **Summary**
     Network and Telecommunications Engineer with over 16 years of expertise in managing, deploying, configuring, and maintaining Technology Platform Applications Services. Proven track record across diverse sectors, including Government, Oil and Gas, Telecommunication, Financial, Industry, and Education. Strong analytical skills to identify, analyze, and solve problems related to services, leveraging diagnostic tools for resolving performance issues, configuration errors, communication failures, and other technical challenges.
 
-    **Experience**
-    - **VAP Engineer** — Millicom (Tigo) (Feb 2017 - Nov 2023)
-      - Lead the management, assessment, configuration, and maintenance of the Value Agreement Services System, ensure availability of Production and Qa Microservices system based on Docker and Kubernets containers.
-      - Implement robust strategies for configuring and optimizing system components, streamlining the deployment pipeline, and ensuring seamless integration within a microservices architecture.
-      - Maintaining 24 hours operations and ensuring 99.9% uptime for the servers performing backups of all servers.
-      - Update procedure documentation to improve training procedures and create lasting records of mastered skills for each employee to help with task delegation.
-      - Demonstrate proficiency in identifying, analyzing, and solving complex problems related to sysadmin, middleware and microservices, enhancing system efficiency and reliability.
-    - **Software Product Specialist** — DATEC LATAM (Oct 2016 - Jan 2017)
-      - Planning of activities related to the attention of assigned corporate clients.
-      - Development of sales strategies for the corporate team.
-      - Coordination of meetings with manufacturers and end customers in order to establish stronger ties with customer.
-    - **Infraestructure System Technical** — Banco Económico (Mar 2015 - May 2016)
-      - Manage, assess, configure, and maintain technological infrastructure systems to ensure they meet core Bank services Applications needs such as Active Directory, Messaging, Instant Messaging based Windows Server 2012 Platform, Exchange, ISA Server, SQL Server, Sharepoint, Moneygram, Swift, Core Banking base AS400, Internet Banking.
-    - **Unified Messaging Consultant** — Government of Santa Cruz (Feb 2013 - Mar 2015)
-      - Manage, assess, configure, and maintain technological infrastructure systems to ensure they meet core Government services Applications needs such as Active Directory, Messaging, Instant Messaging based Windows Server Platform, Exchange, ISA Server, SQL Server.
-    - **Operations Support Engineer Cisco** — Santa Cruz Telis (Dec 2010 - Sep 2012)
-    - **Customer Support Specialist Microsoft** — DIMA Ltda. (Oct 2007 - Sep 2010)
-
-    **Projects**
-    - Santa Cruz Telis (Santa Cruz – Bolivia): Repsol YPF, as backup outsourcing, in the following areas of Server Manager, Manager Backup, Support area Geoscience Center user support, Migration operating platform Windows XP to Windows 7, Getronics, Migration operating platform Windows XP to Windows 7. Fassil SA. Smartcareservices implementation, implementation of Unity, TelisSrl. servivios support UDI, ADM SAO. CallConnector Cisco, integration with the central UC to provide services, SharePoint, Configuring Collaboration and integration with Project Server for collaboration and Enterprise Project Management, Isa Server, Access Configuration VPN client to provide telephony services with ipcommunicator, Sharepoint, CallConnector, acp, solution, Salesforce, configuration cases modules, service, opportunities.
-    - Dima Ltda. (Santa Cruz – Bolivia): Banco Ganadero SA., Implementation of Microsoft Forefront Security, Deploying Windows Update, Migration Platform Windows 2003 and Microsoft Exchange 2007 FUNBODEM SA., Deploying Messaging Platform Microsoft Exchange Server 2007, Implementation of Active Directory, FAN Bolivia, Deploying Windows, Implementation services Role access Client Microsoft Exchange Server 2007: Outlook Anywhere, Active Sync, HR Solutions SA, Implementation of Active directory, Cervecería Boliviana Nacional SA, Deploy Office Communications Server 2007, Tcorp SA, Migration and. Windows 2003 Platform integration and Implementation of Additional Exchange, Tigo SA., Deploy Office Communications Server, Dima Ltda., integration and Infrastructure Update for Microsoft Windows 2003 and Exchange 2007.Tcorp SA., Astaro Firewall Update V6 to V7 and Implementation of Virtual Private Networks.
-
-    **Education**
-    - UAGRM Business School — MBA, Master of Business Administration (2011 - 2012)
-    - Universidad Tecnológica Privada De Santa Cruz — Network and Telecommunications Engineering (Aug 2003 - Oct 2007)
-
-    **Licenses & Certifications**
-    - Cisco Smartcare Services – Cisco
-    - Microsoft® Office Specialist
-    - Microsoft Office PowerPoint 2010 - Microsoft MOS: Microsoft
-    - Microsoft Office Word 2010 Expert - Microsoft MOS: Microsoft
-    - Microsft Office Outlook 2010 - Microsoft MOS: Microsoft
-    - MCTS: Microsoft Office Communications Server 2007, Configuration - Microsoft
-    - MCPS: Microsoft Certified Professional - Microsoft
-    - MCTS: Windows Server 2008 Active Directory, Configuration - Microsoft
-    - Red Hat Sales Specialist - Platform - Red Hat
-    - Cloud Computing - Google Actívate XBP J25 JN4
-    - Scrum Fundamentals Certified (SFC™) - Scrum.org Issued Feb 2024 1016119
-
-    **Skills**
-    - Network Engineering, SysAdmin, DevOps, Docker, Kubernetes, Linux, Windows, RedHat, Microsoft Exchange, ISA Server, Office Communications, Teams Server, Sharepoint, Apache, IIS, Confluence, Jira, Git, HyperV, Vmware, Ansible, Nagios, Datadog, Kibana, Smart Care Services, Graphana, Solarwinds, Jenkins, Selenium, AWS, Azure, GCP, Python, Office365, and more.
-
-    **Languages**
-    - Spanish (advanced)
-    - English (writing: advanced, speaking: intermediate)
-
-    **Courses**
-    - Python
-    - Linux Server Administration Great Learning Academy
-    - Windows Server Administration
-    - Microsoft Security Virtual Training Day: Security, Compliance and Identity Fundamentals
-    - Implementing, Managing and Maintaining a Microsoft Windows Server 2003 Network Infrastructure: Network Services MS-2277
-    - Maintaining a Microsoft SQL Server 2008 Database MS-6231AMS-6231A
-    - Red Hat | RHCSA Rapid Track Course RH199RH199
-    - Red Hat | Red Hat System Administration III: Linux Automation with Ansible RH294RH294
-    - Scrum Fundamentals Certified (SFC™)
-    - Git Training Certificate code : 4845265 Simpli Learn
-    - Getting Started with Ansible Certificate code : 4845287
-    - Introduction to Kubernetes Certificate code : 4845355
-    - AWS | Amazon EventBridge Overview and Integration with SaaS Applications
-  location: ""
-  email: ""
+  location: "Santa Cruz, Bolivia"
+  email: "monica.torrico@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.email@example.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "mailto:monica.torrico@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mocotoyo"
